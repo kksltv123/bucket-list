@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "username": "ㄴㅁㅇㄹ",
+      "title": "ㅁㄹㄴㅇㄴㄹㅇㅁㄹㄴㅇ",
+      "contents": "ㅁㄴㅇㅁㄴㅇㅁㄴㄹㄴㅁㅇ",
+      "id": 9
+    },
+    {
+      "username": "753951",
+      "title": "753951",
+      "contents": "753951",
+      "id": 10
+    },
+    {
+      "username": "789456123",
+      "title": "789456123",
+      "contents": "789456123",
+      "id": 11
+    },
+    {
+      "username": "ㅇㅁㄴ",
+      "title": "ㄴㅁㅇㅁㄴ",
+      "contents": "ㅁㄴㅇㅁㄴㅇ",
+      "id": 13
+    },
+    {
+      "username": "ㅇㅇ",
+      "title": "ㅇㅇㅇ",
+      "contents": "ㅇㅇ",
+      "id": 14
+    },
+    {
+      "username": "ㄹㄹㄹ",
+      "title": "ㄹㄹㄹ",
+      "contents": "ㄹㄹㄹ",
+      "id": 15
+    },
+    {
+      "username": "ㅇㅇㅇ",
+      "title": "ㅇㅇㅇ",
+      "contents": "ㅇㅇㅇ",
+      "id": 16
+    },
+    {
+      "username": "ㅇ",
+      "title": "ㅇ",
+      "contents": "ㅇ",
+      "id": 17
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
